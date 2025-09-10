@@ -24,3 +24,7 @@ For this project we will have
   Go to the github repo online and check if your feature branch is there. If it is there and has all your changes, make a pull request to develop branch with code reivew.
 - During the scrum meeting, we will do the code review for every pull request together and finally merge it to develop branch.
 - Every 2 weeks, we will test the develop branch and if we all agree there is no other errors or edge cases, we will merge develop to main.
+
+## Daily Scrum Meeting Log: 
+https://docs.google.com/document/d/1ipX0pUos3Li5FUY2gDicz0AXxB_kUXBBOYVIGFxK6sk/edit?usp=sharing
+
