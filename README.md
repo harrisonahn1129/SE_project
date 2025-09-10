@@ -3,7 +3,7 @@ Team project for NYU SE course Fall 2025
 
 ## Git Branches
 For this project we will have
-- main: The branch which will have every code that are implemented and tested.
+- main: The production branch which will have every code that are implemented and tested. **DO NOT PUSH ANYTHING TO THIS BRANCH DIRECTLY**
 - develop: The branch which will have every code you worked on the feature, and will be tested. The tested code will be merged to main from here.
 - features: The feature branches are the ones we will implement each features at a time and will be merged to develop branch.
 
